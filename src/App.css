@@ -1,0 +1,50 @@
+*{
+  background-color: #FDF2FF;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Lucida Sans';
+}
+
+form {
+  margin: 20px 0;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  margin-left: 10px;
+  border: 1px solid #540061;
+  border-radius: 3rem;
+}
+
+button {
+  padding: 10px 15px 10px 15px;
+  border: 1px solid #540061;
+  border-radius: 1rem;
+  margin-left: 10px;
+
+}
+
+button:hover{
+  background-color: #540061;
+  color: #FDF2FF;
+}
+
+.task{
+  margin: auto;
+  margin-top: 10px;
+  width: 500px;
+  border-radius: 1rem;
+  border: 1px solid #540061;
+  text-align: left;
+  padding: 20px ;
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
